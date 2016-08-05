@@ -1,0 +1,127 @@
+_repo: Nonsenseorship_6678
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Weaver, John V. A. (John Van Alstyne)
+    aliases:
+    - Weaver, John Van Alstyn
+    - Weaver, John Van Alstyne
+    birthdate: &id001 1893
+    deathdate: 1938
+    gutenberg_agent_id: '5789'
+    url: http://www.gutenberg.org/2009/agents/5789
+  - agent_name: Swinnerton, Frank
+    alias: Swinnerton, Frank Arthur
+    birthdate: 1884
+    deathdate: 1982
+    gutenberg_agent_id: '5786'
+    url: http://www.gutenberg.org/2009/agents/5786
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Arthur_Swinnerton
+  - agent_name: Hecht, Ben
+    birthdate: 1894
+    deathdate: 1964
+    gutenberg_agent_id: '2616'
+    url: http://www.gutenberg.org/2009/agents/2616
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Hecht
+  - agent_name: Broun, Heywood
+    alias: Broun, Heywood Campbell
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '5623'
+    url: http://www.gutenberg.org/2009/agents/5623
+    wikipedia: http://en.wikipedia.org/wiki/Heywood_Broun
+  - agent_name: Keable, Robert
+    birthdate: &id002 1887
+    deathdate: 1927
+    gutenberg_agent_id: '5579'
+    url: http://www.gutenberg.org/2009/agents/5579
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Keable
+  - agent_name: O'Brien, Frederick
+    birthdate: 1869
+    deathdate: 1932
+    gutenberg_agent_id: '5627'
+    url: http://www.gutenberg.org/2009/agents/5627
+  - agent_name: Tomlinson, H. M. (Henry Major)
+    alias: Tomlinson, Henry Major
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '5787'
+    url: http://www.gutenberg.org/2009/agents/5787
+    wikipedia: http://en.wikipedia.org/wiki/H._M._Tomlinson
+  - agent_name: Irwin, Wallace
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '1567'
+    url: http://www.gutenberg.org/2009/agents/1567
+  - agent_name: Parker, Dorothy
+    alias: Parker, Dorothy Rothschild
+    birthdate: *id001
+    deathdate: 1967
+    gutenberg_agent_id: '5625'
+    url: http://www.gutenberg.org/2009/agents/5625
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Parker
+  - agent_name: Towne, Charles Hanson
+    birthdate: &id003 1877
+    deathdate: 1949
+    gutenberg_agent_id: '5788'
+    url: http://www.gutenberg.org/2009/agents/5788
+  - agent_name: Woollcott, Alexander
+    alias: Woolcott, Alexander
+    birthdate: *id002
+    deathdate: 1943
+    gutenberg_agent_id: '5794'
+    url: http://www.gutenberg.org/2009/agents/5794
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Woollcott
+  - agent_name: Chappell, George S. (George Shepard)
+    aliases:
+    - Traprock, Walter E.
+    - Chappell, George Shepard
+    birthdate: *id003
+    deathdate: 1946
+    gutenberg_agent_id: '2150'
+    url: http://www.gutenberg.org/2009/agents/2150
+    wikipedia: http://en.wikipedia.org/wiki/George_Shepard_Chappell
+  - agent_name: Lowry, Helen Bullitt
+    gutenberg_agent_id: '5626'
+    url: http://www.gutenberg.org/2009/agents/5626
+  - agent_name: Gilbert, Clinton W. (Clinton Wallace)
+    alias: Gilbert, Clinton Wallace
+    birthdate: 1871
+    deathdate: 1933
+    gutenberg_agent_id: '1314'
+    url: http://www.gutenberg.org/2009/agents/1314
+  - agent_name: Hale, Ruth
+    alias: Broun, Ruth Hale
+    birthdate: *id002
+    deathdate: 1934
+    gutenberg_agent_id: '5624'
+    url: http://www.gutenberg.org/2009/agents/5624
+creator:
+  editor:
+    agent_name: Putnam, G. G.
+    gutenberg_agent_id: '2149'
+    url: http://www.gutenberg.org/2009/agents/2149
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Censorship'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'We have with us today, by G. P. P. -- Evolution, another of those
+  outlines, by G. S. Chappell -- Nonsenseorship, by H. Broun -- Literature and the
+  bastinado, by B. Hecht -- The woman''s place, by Ruth Hale -- Owed to Volstead,
+  by W. Irwin -- The censorship of thought, by R. Keable -- The uninhibited flapper,
+  by Helen B. Lowry -- The wowzer in the South Seas, by F. O''Brien -- Reformers:
+  a hymn of hate, by Dorothy Parker -- Prohibition, by F. Swinnerton -- A guess at
+  unwritten history, by H. M. Tomlinson -- In vino demi-tasse, by C. H. Towne -- Bootleg,
+  by J. V. A. Weaver -- And the playwright, by A. Wollcott -- The oracle that always
+  says "no", by the author of the "Mirrors of Washington."'
+title: Nonsenseorship
+url: http://www.gutenberg.org/ebooks/6678
