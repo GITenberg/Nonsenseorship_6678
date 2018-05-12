@@ -1,12 +1,12 @@
 _repo: Nonsenseorship_6678
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Weaver, John V. A. (John Van Alstyne)
     aliases:
     - Weaver, John Van Alstyn
     - Weaver, John Van Alstyne
-    birthdate: &id001 1893
+    birthdate: 1893
     deathdate: 1938
     gutenberg_agent_id: '5789'
     url: http://www.gutenberg.org/2009/agents/5789
@@ -31,7 +31,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/5623
     wikipedia: http://en.wikipedia.org/wiki/Heywood_Broun
   - agent_name: Keable, Robert
-    birthdate: &id002 1887
+    birthdate: 1887
     deathdate: 1927
     gutenberg_agent_id: '5579'
     url: http://www.gutenberg.org/2009/agents/5579
@@ -55,19 +55,19 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/1567
   - agent_name: Parker, Dorothy
     alias: Parker, Dorothy Rothschild
-    birthdate: *id001
+    birthdate: 1893
     deathdate: 1967
     gutenberg_agent_id: '5625'
     url: http://www.gutenberg.org/2009/agents/5625
     wikipedia: http://en.wikipedia.org/wiki/Dorothy_Parker
   - agent_name: Towne, Charles Hanson
-    birthdate: &id003 1877
+    birthdate: 1877
     deathdate: 1949
     gutenberg_agent_id: '5788'
     url: http://www.gutenberg.org/2009/agents/5788
   - agent_name: Woollcott, Alexander
     alias: Woolcott, Alexander
-    birthdate: *id002
+    birthdate: 1887
     deathdate: 1943
     gutenberg_agent_id: '5794'
     url: http://www.gutenberg.org/2009/agents/5794
@@ -76,7 +76,7 @@ contributor:
     aliases:
     - Traprock, Walter E.
     - Chappell, George Shepard
-    birthdate: *id003
+    birthdate: 1877
     deathdate: 1946
     gutenberg_agent_id: '2150'
     url: http://www.gutenberg.org/2009/agents/2150
@@ -92,16 +92,21 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/1314
   - agent_name: Hale, Ruth
     alias: Broun, Ruth Hale
-    birthdate: *id002
+    birthdate: 1887
     deathdate: 1934
     gutenberg_agent_id: '5624'
     url: http://www.gutenberg.org/2009/agents/5624
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Putnam, G. G.
     gutenberg_agent_id: '2149'
     url: http://www.gutenberg.org/2009/agents/2149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6678#Nonsenseorship
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
